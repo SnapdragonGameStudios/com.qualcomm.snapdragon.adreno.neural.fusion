@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/todogroup/repolinter/main/rulesets/schema.json",
+  "version": 2,
+  "extends": "https://raw.githubusercontent.com/quic/.github/main/repolint.json",
+  "rules": {
+    "readme-references-license": {
+      "rule": {
+        "options": {
+          "globsAll": ["README*", "!**/*.meta"]
+        }
+      }
+    }
+  }
+}

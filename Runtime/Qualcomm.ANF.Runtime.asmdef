@@ -1,0 +1,19 @@
+{
+    "name": "Qualcomm.ANF.Runtime",
+    "rootNamespace": "Qualcomm.ANF",
+    "references": [
+        "Unity.RenderPipelines.Core.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "ENABLE_UPSCALER_FRAMEWORK"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

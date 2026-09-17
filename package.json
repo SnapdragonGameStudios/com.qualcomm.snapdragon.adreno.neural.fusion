@@ -1,0 +1,29 @@
+{
+  "name": "com.qualcomm.snapdragon.adreno.neural.fusion",
+  "version": "1.0.0",
+  "displayName": "ANF Upscaler",
+  "description": "Adreno Neural Fusion (ANF): AI based upscaling and frame generation",
+  "unity": "6000.6",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "17.6.0",
+    "com.unity.render-pipelines.core": "17.6.0",
+    "com.unity.ugui": "2.5.0",
+    "com.unity.inputsystem": "1.19.0"
+  },
+  "keywords": [
+    "upscaler",
+    "urp",
+    "rendering",
+    "qualcomm",
+    "anf"
+  ],
+  "author": {
+    "name": "Qualcomm",
+    "email": "",
+    "url": ""
+  },
+  "type": "library"
+}
