@@ -7,6 +7,9 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ---
 
+## [1.2.0]
+- Updated internal ANF SDK
+
 ## [1.1.0]
 
 ### Changed
